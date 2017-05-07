@@ -1,0 +1,9 @@
+{
+    "name": "infity/infity",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "twig/twig" : "^2.0",
+        "twig/extensions": "^1.0"
+    }
+}
